@@ -51,7 +51,7 @@ def weather(city):
 
     #concatenating the city name and weather
     city = city+"weather"
-weather('houston')
+
 
 
 
